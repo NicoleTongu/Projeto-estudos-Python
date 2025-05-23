@@ -1,0 +1,1126 @@
+
+[PDF Texto: download.pdf]
+Reflexões sobre o método em Keynes
+Reflections on the method of Keynes
+Fernando Ferrari Filho 
+Fábio Henrique Bittes Terra*
+resumo: Provavelmente, a questão do método seja uma das mais controvertidas discussões 
+relacionadas à obra de Keynes. As controvérsias podem ser resumidas em três principais 
+linhas: (i) o atomismo ou o organicismo como unidade de análise econômica de Keynes; 
+(ii) a continuidade ou a descontinuidade das bases filosóficas, em termos epistemológicos e 
+metodológicos, do pensamento de Keynes; e (iii) a especulação acerca do método científico 
+utilizado por Keynes. O objetivo do artigo centra-se na última das linhas da controvérsia, 
+qual seja, discutir o método científico na obra de Keynes. Subjacente a tal objetivo, apesar 
+dos indícios de que o método do autor está relacionado tanto ao indutivo quanto ao 
+histórico-indutivo, explorar-se-á o primeiro método, uma vez que, por um lado, ele diz 
+respeito à teoria do conhecimento (epistemologia) desenvolvida por Keynes em seu Treatise 
+on Probability e, por outro lado, ele está presente em algumas de suas importantes obras 
+econômicas. 
+Palavras-chave: Keynes; Teoria Keynesiana; Metodologia Científica.
+abastract: The question of method raises probably some of the most controversial 
+discussions of the work of John Maynard Keynes. Briefly, the controversies fall into three 
+main areas: (i) the unit of analysis, i.e., whether Keynes’ economic theory is atomistic 
+or organic; (ii) whether or not there is continuity in Keynes’ philosophical foundations 
+throughout his work; and (iii) speculation about the scientific method Keynes used. In that 
+context, this paper aims to explore the latter of these lines of controversy. The idea is to 
+show that, considering his insights related to the inductivism, mainly in the Treatise on 
+Probability, there are evidences that Keynes’ method was historical and inductive. 
+Keywords: Keynes; Keynesian Theory; Scientific Methodology.
+JEL Classification: B2; B4; E 12.
+Revista de Economia Política, vol. 36, nº 1 (142), pp. 70-90, janeiro-março/2016
+* Respectivamente, Professor titular da Universidade Federal do Rio Grande do Sul (UFRGS), Porto 
+Alegre, RS - Brasil e pesquisador do CNPq. E-mail: Ferrari@ufrgs.br; Professor adjunto da Universidade 
+Federal de Uberlândia, Uberlândia, MG – Brasil. E-mail:fhbterra@gmail.com. Submetido: 7/Março/2014; 
+Aprovado: 17/Outubro/2014
+70
+•  Revista de Economia Política 36 (1), 2016
+http://dx.doi.org/10.1590/0101-31572016v36n01a05
+71
+Revista de Economia Política  36 (1), 2016 • pp. 70-90
+I have derived valuable assistance from unpublished 
+writings of G. E. Moore and J. M. Keynes: from the for-
+mer as regards the relations of sense-data to physical 
+objects, and from the latter as regards probability and 
+induction.
+(Bertrand Russell, prefácio do 
+The Problems of Philosophy, 1912)
+Introdução1
+Na busca pelo conhecimento, o método científico cumpre papel fundamental, 
+pois é o meio regrado e ordenado pelo qual o sujeito aborda um objeto desconhe-
+cido – o fenômeno – ansiando circunscrevê-lo a ponto de compreendê-lo e com ele 
+estabelecer uma relação de conhecimento. As técnicas e normas que o método en-
+volve devem ser aceitas pela comunidade científica e funcionam como alicerces 
+para que o conhecimento obtido seja válido. Assim sendo, o método define os 
+procedimentos que permitem compreender as características de um fenômeno, tan-
+to para apreendê-lo em si quanto para entender suas relações de semelhança, des-
+semelhança, causas e efeitos uni ou multideterminados, com outros objetos. 
+O debate sobre o método em John Maynard Keynes tomou corpo nos anos 
+1980 como resultado do resgate teórico dos escritos originais do autor, reunidos e 
+publicados nos Collected Writings of John Maynard Keynes (CWJMK), por parte 
+da teoria pós-keynesiana. Não obstante, talvez seja a referida questão uma das mais 
+controversas nas várias interpretações sobre as ideias e concepções teóricas de 
+Keynes, haja vista a diversidade de posições sobre qual seria o seu método. Sem a 
+pretensão de simplificar o debate, é possível resumi-lo em três principais linhas, 
+quais sejam: (i) o atomismo ou o organicismo como unidade de análise da teoria 
+econômica de Keynes; (ii) a continuidade ou a descontinuidade das bases filosóficas, 
+em termos epistemológicos e metodológicos, do pensamento de Keynes ao longo 
+de sua obra; e (iii) a especulação acerca do método científico utilizado por Keynes. 
+Cada uma destas linhas tornou-se uma agenda de pesquisa que, embora com 
+inerente interface, possui desenvolvimentos próprios e circunscritos aos objetos em 
+debate. Citem-se, por exemplo, nas discussões sobre o atomismo ou organicismo, 
+as controvérsias entre Bateman (1989) e Davis (1989-1990), favoráveis ao atomis-
+mo, e Carabelli (1985) e Winslow (1986, 1989a, 1989b) e Rotheim (1989-1990), 
+em acordo com o organicismo. Por sua vez, os trabalhos de O’Donnell (1989, 2002) 
+se destacam no que se refere à continuidade nos princípios filosóficos que funda-
+mentam uma determinada visão de mundo de Keynes, enquanto que Bateman 
+(1989, 1991) propõe a ruptura e Gerrard (1992) e Carvalho (1992) denotam tanto 
+rupturas quanto continuidades. 
+1 Os autores gostariam de agradecer a dois pareceristas anônimos pelas críticas e sugestões. Naturalmente, 
+os erros remanescentes são de responsabilidade única dos autores.
+72
+Brazilian Journal of Political Economy  36 (1), 2016 • pp. 70-90
+O objetivo do artigo centra-se na última das linhas de controvérsia, isto é, 
+discutir o método científico utilizado por Keynes. Como traço distintivo e ao mes-
+mo tempo contributivo à literatura pertinente, o artigo se restringe a explorar o 
+princípio da indução e, por conseguinte, o método indutivo na obra de Keynes, sob 
+o argumento de que os referidos princípio e método, por um lado, foram desenvol-
+vidos por ele na teoria do conhecimento (epistemologia) apresentada em seu Trea-
+tise on Probability (TP) e, por outro lado, estão presentes em suas obras econômi-
+cas. Em especial, o artigo mostra que, para Keynes, o princípio da indução era 
+composto pelas analogia e indução pura, sendo que esta última está relacionada ao 
+método histórico-indutivo, destacado pela teoria pós-keynesiana como o método 
+comumente utilizado por Keynes em sua obra.2
+No entanto, parte-se do pressuposto de que, em virtude de sua vasta e eclética 
+produção, seria difícil o método histórico-indutivo ter sido o único utilizado por 
+Keynes, muito embora seja tal método bastante pertinente ao característico prag-
+matismo do autor. Não é por menos que a teoria pós-keynesiana não trata a indu-
+ção per si como o método de Keynes, mas destaca que o autor se debruçou sobre 
+o fenômeno econômico a partir da observação do tempo histórico do real world, 
+conforme o método histórico-indutivo, a que, por sua vez, Bresser-Pereira (2012)3 
+chamou de método histórico-dedutivo, ao argumentar que a ciência econômica tem 
+que ser modesta, racional e pragmática, para que sirva como instrumento com-
+preensível de intervenção política sobre a realidade. 
+A despeito da diferença dos autores acima mencionados, este artigo utilizará o 
+termo indução como insight/referência para especular-se sobre o método indutivo (ou 
+histórico-indutivo) em Keynes,4 pois, assim, o autor o faz na TP, ao defender e mostrar 
+as condições de validade deste método, esforço este que alcançou a ressonância ilus-
+trada pela epígrafe deste artigo. Como se buscará mostrar, a indução foi defendida e 
+utilizada por Keynes, em âmbito individual, como um importante meio de se investi-
+gar a racionalidade e o comportamento epistemológico humano, tanto quanto, em 
+nível macroeconômico, para entender o funcionamento do sistema econômico. 
+2 Para maiores detalhes, veja Davidson (1972), Eichner (1984), Robison (1984), Chick (1998), Dow 
+(2001) e Chick e Dow (2001).
+3 Conforme Bresser-Pereira (2012, p. 299), “economia deve ser uma ciência modesta, uma ciência 
+racional e uma ciência pragmática. Uma ciência modesta porque [...] relações [são] [...] confrontadas 
+com a realidade [...] [porque] estrutura e instituições estão em permanentes mudanças [...] [e] incerteza 
+[...] [faz parte] do comportamento econômico. Uma ciência razoável porque homens e mulheres são 
+seres racionais [...] E uma ciência pragmática porque crescimento e estabilidade financeira são os 
+principais objetivos políticos das modernas sociedades democráticas”. Esses pressupostos da ciência 
+econômica apresentados por Bresser-Pereira (2012) estão relacionados à ideia de que a Ciência 
+Econômica é um “modelo aberto”, em que o método de análise é o histórico-estruturalista e indutivo, 
+instituições importam, os comportamentos psicológico-expectacionais dos indivíduos, como classes 
+sociais, são relevantes e prevalecem incertezas na tomada de decisões, entre outros (Lawson, 1997; Chick, 
+2004). 
+4 Para os autores, os métodos indutivo e histórico-indutivo terão o mesmo sentido, uma vez que dados 
+fatuais e inferências a partir da histórica são importantes para a análise de Keynes. 
+73
+Revista de Economia Política  36 (1), 2016 • pp. 70-90
+Nesse sentido, buscar-se-ão evidências de que o método indutivo está presente 
+ao longo da obra de Keynes e a apresentação das evidências será feita, principal-
+mente, por meio de citações e referências explícitas à obra do autor, como é comum 
+às investigações sobre história das ideias. Para tanto, não somente o TP será usado 
+como referência, mas o Tract on Monetary Reform (Tract), de 1923, o Treatise on 
+Money (TM), de 1930, e a The General Theory of Employment, Interest and Money 
+(GT), de 1936. Desta forma, a análise passará por praticamente três décadas de 
+produção intelectual de Keynes, haja vista que o TP, embora publicado em 1921, 
+foi escrito entre 1906 e 1908. 
+Além desta introdução, o artigo conta com outras quatro seções. Na segunda, 
+será feita uma revisão da literatura pertinente às contribuições sobre a questão do 
+método em Keynes. Na terceira serão resgatadas as concepções epistemológicas e 
+filosóficas de Keynes expressas em seu TP. Na quarta seção, serão evidenciadas as 
+passagens e os argumentos que corroboram a hipótese de que o método indutivo 
+é uma evidência na obra de Keynes, por mais que se tenha ciência de que, devido 
+ao seu pragmatismo, para ele o normativo e o convencional não faziam parte do 
+real world, pois o tempo e as mudanças, enfim a historicidade, e a incerteza acaba-
+vam condicionando as tomadas de decisões. Por fim, apresentam-se as considera-
+ções finais.
+As diversas interpretações sobre o método de Keynes
+Como mostram Hegenberg (1976), Caldwell (1989) e Blaug (1999), vários são 
+os métodos utilizados na busca pelo conhecimento. No que toca ao método induti-
+vo há duas concepções possíveis. A primeira delas, segundo Keynes (1921), relacio-
+na-se à Francis Bacon e John Stuart Mill e diz respeito a se conceituar a indução 
+como a enumeração de evidências particulares observáveis a partir das quais se 
+pode generalizar. A segunda concepção é a contribuição desenvolvida pelo próprio 
+Keynes na TP, ao definir a indução não apenas como a generalização decorrente de 
+um somatório de instâncias particulares, mas envolvendo também o uso da analogia. 
+À enumeração das evidências, Keynes chama indução pura, ao passo que da soma 
+dela com a analogia tem-se o método indutivo. Conforme Keynes (1921:, p. 316), 
+“eu considerei melhor [...] usar indução em si para todos os tipos de raciocínios que 
+combinem, de uma forma ou de outra, indução pura com analogia”.5 
+Na ciência econômica, como mostram Blaug (1975, 1999) e Corazza (2003), 
+a diversidade de posições epistemológicas e metodológicas não é diferente do que 
+5 É importante destacar que Blaug (1999) também argumenta que há um duplo sentido no termo 
+indução, porém, relacionado não ao método de se generalizar a partir de casos particulares, mas à 
+possibilidade de se demonstrarem as generalizações alcançadas. Por um lado, em seu uso lógico, a 
+indução é o argumento que pode ser demonstrado e, assim, possui o caráter de certeza. Por outro lado, 
+o sentido ordinário do termo se refere ao uso cotidiano que, contudo, não se preocupa com argumentos 
+dotados de certeza. 
+74
+se vê na filosofia da ciência como um todo. A título de ilustração, Fonseca (2003) 
+aponta o método como um dos pontos fundamentais da crítica de Malthus, empi-
+rista, a Ricardo, racionalista, enquanto que Germer (2003) mostra como o método 
+de Marx foi central para que ele fizesse a crítica à economia política clássica. Não 
+obstante, a crítica de Keynes ao método empregado por Ricardo e seus seguidores 
+é uma constante na GT: 
+Ricardo oferece-nos a suprema realização intelectual, inalcançável 
+aos espíritos fracos, adotando um mundo hipotético distante da expe-
+riência como se fosse o mundo da experiência e, então, nele vivendo 
+consistentemente. Para a maioria de seus sucessores o senso comum não 
+pode ajudar a rompê-lo [o mundo ricardiano] – sem prejuízo à sua con-
+sistência lógica. (1964, p. 192) 
+Por sua vez, são inúmeras as interpretações sobre o método em Keynes: o 
+histórico-indutivo e a importância do empirismo; o Keynesian Kaleidics de Shack-
+le (1969); as influências legadas por Marshall; o pluralismo metodológico; o mé-
+todo keynesiano próprio; e a utilização da lógica ordinária nas exposições meto-
+dológicas e teóricas do autor ao invés da lógica formal. Essas interpretações 
+circunscrevem-se a debater o método científico tanto em Keynes quanto nos pós-
+-keynesianos e conseguem ilustrar a diversidade de opiniões que circunda o referido 
+assunto. 
+Dow (2001) destaca que embora Joan Robinson tenha sido a primeira a utili-
+zar-se do termo teoria pós-keynesiana, suas contribuições não se preocuparam em 
+debater o método de Keynes em particular, mas, sim, as diferença da agenda de 
+pesquisa pós-keynesiana em relação à da síntese neoclássica. Embora Robinson não 
+tenha realizado uma pesquisa sistemática sobre o método em Keynes, é possível 
+perceber a preocupação dela em indicar que a teoria econômica preocupe-se em 
+compreender, explicar e influenciar a história do real world (Robinson, 1984). Pa-
+ra tanto, a teoria “não pode ser uma doutrina ideológica (como a presunção em 
+favor do laissez-faire) nem uma tautologia (como a fórmula quantitativa MV = PT)” 
+(Robinson, 1984, p. 17). 
+Linha semelhante segue Eichner (1984, p. 192), para quem a teorização deve 
+“explicar o conjunto de fenômenos empiricamente observáveis (que, no contexto 
+social, são os acontecimentos históricos do mundo real)”. Preocupando-se para 
+além da consistência interna com a coerência empírica das teorias, o autor aponta 
+que nas ciências sociais, em que experimentos controlados são improváveis, a va-
+lidade de um determinado modelo econômico depende de ele gerar os resultados 
+previstos quando praticados em alguma política pública. Davidson (1972) igual-
+mente destaca o ponto de partida e de chegada das teorias keynesianas como sendo 
+o real world, acrescentando o seu caráter não-ergódico e, portanto, incerto e em 
+constante evolução histórico-institucional (Davidson, 1982-1983). 
+Estas contribuições podem ser sintetizadas como método histórico-indutivo, 
+cuja ideia consiste em capturar, ao longo do tempo histórico, as evidências obser-
+Brazilian Journal of Political Economy  36 (1), 2016 • pp. 70-90
+75
+váveis a partir das quais se poderá generalizar alguma teoria. O processo de inves-
+tigação se inicia com a observação de certas regularidades da concretude do real 
+world, em anteposição às proposições apriorísticas da tradição ortodoxa, e se con-
+clui quando, por meio da indução, o fenômeno foi apreendido, compreendido e 
+explicado. Para Bresser-Pereira (2009), na medida em que uma determinada gene-
+ralização indutiva será utilizada para explicar a realidade histórica, o caminho de 
+volta da teoria induzida para a realidade será a dedução. Desta forma, em franca 
+oposição ao método hipotético-dedutivo utilizado pelos neoclássicos, o autor de-
+nomina o método de Keynes, bem como dos economistas clássicos como Smith, 
+Marx e Malthus, como histórico-dedutivo, e afirma que “todos os modelos que 
+partem de uma observação ou de um evento real seriam também histórico-deduti-
+vos” (Bresser-Pereira, 2009, p. 167). 
+Abre-se, aqui, espaço ao argumento trazido por Carvalho (2003: 177) de que 
+o método da GT apresentava Keynes enquanto “o agente econômico e [ao mesmo 
+tempo] o investigador da economia”. Ou seja, o método de Keynes o dispunha 
+concomitantemente como teórico e teorizado, experimentador e observador do real 
+world. Logo, Keynes parecia preocupar-se não somente com o mundo em si, mas 
+com o mundo tal qual ele é percebido e esta percepção só poderá ser apreendida 
+pelo teórico se seu método lhe permitir fazer parte do mundo a ser modelado. Em 
+suma, Carvalho (2003) está ressaltando o empirismo, isto é, a experiência, como 
+essencial à elaboração teórica de Keynes. Fonseca (2010) também salienta a impor-
+tância conferida por Keynes à fundamentação empírica como substância para a 
+obtenção do conhecimento, mas usa como modelo teórico para tanto o método 
+pragmático americano, de Charles Peirce, William James e John Dewey.
+Shackle (1969) foi outro importante autor a se debruçar sobre o método em 
+Keynes e, diga-se de passagem, um dos primeiros a fazê-lo. Para ele, Keynes exami-
+na momentos de equilíbrio nas variáveis, porém, em um ambiente em que o com-
+portamento humano baseado em expectativas influencia intempestivamente a tra-
+jetória econômica a ponto de os equilíbrios serem precários, não autorregulados, 
+fora do pleno emprego e, sobretudo, cruciais, pois a dinâmica do sistema econômi-
+co dificilmente retorna a pontos de repouso exatamente iguais. Ao se unirem (i) a 
+análise de momentos de equilíbrio, (ii) a condição de o ponto de equilíbrio anali-
+sado ser instável e (iii) o comportamento humano imprevisível, tem-se os três lados 
+do método caleidoscópico, Keynesian Kaleidics, que sintetiza para Shackle (1969) 
+o método de Keynes na GT. 
+Outra linha de investigação ressalta a herança legada por Marshall ao método 
+de Keynes. Eichner (1984) aponta que Marshall era adepto da teoria evolucionária 
+de Darwin e, assim, atentou-se para a apreensão da dinâmica dos fenômenos, pre-
+ocupando-se com as leis de movimento dos sistemas, bem como de seus subsistemas 
+componentes. Carvalho (1992) evidencia esta preocupação tanto em Marshall 
+quanto em Keynes ressaltando a importância que ambos deram às mudanças da 
+estrutura econômica ao longo do tempo, algo ilustrado por Crotty (1990) ao ex-
+plicar como Keynes observa o real world para escrever a GT. No caso específico 
+da dinâmica dos sistemas, Carvalho (1992) destaca que Keynes baseia-se na pers-
+Revista de Economia Política  36 (1), 2016 • pp. 70-90
+76
+pectiva expectacional para estabelecer a interação entre o curto e o longo prazos 
+das economias monetárias da produção.6 Não obstante, são influências legadas a 
+Keynes por Marshall, como apontam Carvalho (1992) e Chick e Dow (2001), o 
+uso de instrumentos analíticos como as funções de oferta e de demanda e a noção 
+de equilíbrio parcial, em que as influências entre duplas de variáveis são analisadas 
+além de serem mensuradas por elasticidades. Em especial, Chick e Dow (2001) 
+denominam este procedimento de pesquisa parcial de análise por segmentação/
+compartimentação, e o entendem como o caminho encontrado por Marshall e 
+Keynes para analisarem por etapas um fenômeno orgânico e complexo, tal qual a 
+Economia.
+Outra influência de Marshall sobre Keynes é a relevância de o desenvolvimen-
+to teórico se referenciar no comportamento humano médio (Carvalho, 1992). Não 
+é por menos que as menções ao homem médio ou comum são uma constante nas 
+obras de Keynes, como mostra a seguinte citação: “a prosperidade econômica é 
+excessivamente dependente de uma atmosfera política e social que é agradável ao 
+homem de negócios médio” (Keynes, 1964, p. 162, itálico adicionado). Indo nessa 
+direção, Chick e Dow (2001) mostram a descrença de Marshall com relação às 
+teorizações por demais abstratas e que poderiam acabar por retirar utilidade da 
+ciência econômica, algo que Keynes (1964: 297), por sua vez, entendia poder ser 
+“a grande falha dos métodos simbólicos pseudo-matemáticos de formalizar sistemas 
+para a análise econômica”.
+Corazza (2009) ressalta mais uma influência de Marshall sobre Keynes, que 
+diz respeito à sugestão de Marshall de o método a ser usado depender das circuns-
+tâncias e da natureza do fenômeno. Não haveria um método a priori e todos os 
+possíveis deveriam ser utilizados, desde que cabíveis à situação. Desta forma, se-
+gundo Corazza (2009, pp. 7-8), Keynes poderia ser considerado um pluralista 
+metodológico, pois 
+Keynes faz uma combinação dos métodos indutivo e abstrato de-
+dutivo adequados e aplicáveis à solução de problemas específicos. [...] 
+Keynes não parece ter adotado nenhum desses caminhos extremos, nem 
+unicamente o indutivo e muito menos o método a priori abstrato deduti-
+vo [...] Ele pode ser definido como um pluralista na definição do método 
+em economia.
+Argumentação similar, porém sem destacar influência de Marshall, foi feita por 
+O’Donnell (1989, p. 327): “metodologicamente, ele [Keynes] aceitou na economia 
+a dedução, bem como a indução, e procurou envolver os modos de raciocínio tanto 
+6 Kregel (1976) utiliza-se desta interação entre expectativas de curto e longo prazos para compor as 
+três possíveis pontos de equilíbrio do sistema keynesiano, quais sejam: (i) equilíbrio estático, em que as 
+expectativas de curto e longo prazo não se movem; (ii) equilíbrio estacionário, em que as expectativas 
+de curto prazo se movem, mas não contaminam as de longo prazo; e (iii) equilíbrio móvel, em que as 
+expectativas de curto prazo se movem e contaminam as de longo prazo. 
+Brazilian Journal of Political Economy  36 (1), 2016 • pp. 70-90
+77
+formais quanto não formais”. Contudo, o argumento de fundo de O’Donnell (1989), 
+diferentemente do caráter pluralista apontando por Corazza (2009), é o de que 
+avesso a extremos em suas posições teóricas, Keynes teria percorrido o caminho do 
+meio “em virtualmente todas as esferas, seja na filosofia, seja na economia ou na 
+política” (O’Donnell, 1989, p. 325). Logo, o pluralismo de Keynes adviria de ele 
+hesitar assumir posições radicais, implicando, inclusive, um leque de métodos assu-
+midos pelo autor. Chick e Dow (2001) também arguem em mesmo sentido, mas com 
+uma hipótese subjacente diferente à de Corrazza (2009) e O’Donnell (1989): para 
+as autoras, Keynes utilizou-se de uma variedade de métodos por conta da comple-
+xidade dos sistemas abertos e orgânicos, tal qual o real world econômico. 
+Para Carabelli (1985), em linha com Carvalho (2003), o método de Keynes no 
+TP faz com que a epistemologia do cientista econômico seja a mesma do agente 
+econômico. Contudo, a autora, seguida por Souza (2003), encontra em Keynes uma 
+postura que é, ao mesmo tempo, antiempiricista, antirracionalista e antipositivista, 
+e, portanto, confronta a tese de ser Keynes um pluralista metodológico, como quer 
+Corazza (2009), ou utilizar-se do indutivismo e do dedutivismo, como aponta 
+O’Donnell (1989). A tese de Carabelli (1985) denota que Keynes é detentor de um 
+método próprio, cujo fundamento encontra-se no TP, e que se sustenta em a pro-
+babilidade ser definida como uma relação cognitiva, de natureza orgânica entre 
+indivíduo e todo, que usa da linguagem ordinária e não da lógica formal e que é 
+mutável ao longo do tempo. Mesmo sustentando que Keynes se utiliza de método 
+próprio, a autora não o sintetiza em um conceito ou nomenclatura e, assim sendo, 
+resta apenas a noção de que “esta mistura de antiempiricismo e antirracionalismo 
+era o núcleo da posição epistemológica peculiar de Keynes e torna difícil descrever 
+a posição dele em termos simples” (Carabelli, 1985, pp. 151).
+A tese de Carabelli (1985) alinha-se a duas discussões: uma sobre Keynes deter 
+um método próprio e outra sobre o uso da lógica ordinária. Sobre a primeira dis-
+cussão, há contraposições sobre estarem no TP as bases de um método próprio de 
+Keynes. Carvalho (1988) aponta o TP como um esforço de Keynes em debater os 
+fundamentos da tomada de decisão por intermédio da indução. Por sua vez, na GT, 
+conforme Carvalho (1988), Keynes dedica-se a examinar como os indivíduos to-
+mam decisões em contextos de informação inescapavelmente incompleta. Gerrard 
+(1992) corrobora esse ponto de vista, pois sustenta que o Keynes do TP preocupa-
+-se com temas mais especulativos enquanto que o Keynes da GT centra-se em 
+questões de ordem prática.7 
+No entanto, Chick (1998) e Chick e Dow (2001) argumentam, assim como 
+Carabelli (1985), que o método de Keynes ancora-se na lógica ordinária – ou hu-
+mana, como chamam Chick e Dow (2001). De acordo com Costa (2002), a lingua-
+gem formal busca explicar os fenômenos por meio lógico-simbólico alheio a am-
+7 Este ponto guarda estreita relação com as discussões sobre a continuidade ou ruptura das posições 
+filosóficas de Keynes ao longo de sua obra. Para mais, veja: O’Donnell (1989, 2002) e Bateman (1989, 
+1991).
+Revista de Economia Política  36 (1), 2016 • pp. 70-90
+78
+biguidades, enquanto a forma ordinária toma como modelo a linguagem do 
+cotidiano, do espaço em que se vive. Esta forma de se entenderem e de se apresen-
+tarem os fenômenos tem íntima relação com o teórico e teorizado serem o mesmo 
+sujeito, pois implica que o investigador faz perguntas e busca respostas usando a 
+mesma lógica que os agentes comumente se utilizam. Na TP, Keynes faz clara alu-
+são à lógica ordinária como meio de expressão teórica, ao argumentar que “estes 
+escritores que se constrangem sob exagerada precisão [...] são algumas vezes me-
+ramente pedantes. Há muito a ser dito, em favor de se entender a substância do 
+que se diz o tempo todo e nunca se reduzir o substantivo de seu argumento ao 
+status mental de x ou y” (Keynes, 1921, p. 19). 
+Como se pode perceber, há uma dispersão de contribuições sobre o método 
+em Keynes.8 No entanto, a diversidade de interpretações faz continuar a existir a 
+seguinte pergunta: qual é o método de Keynes? Para os propósitos de um artigo, 
+responder a esta questão de forma cabal é complexa, apesar de se especular sobre 
+ele. Todavia, tendo como referência o resgate das contribuições originais de Keynes 
+acerca da indução, entende-se que o método indutivo exerce influência em sua obra. 
+Os insights de indução em Keynes
+Não é exagero se afirmar que o TP é uma obra sobre epistemologia. Neste 
+particular, Keynes deixa claro nas primeiras páginas do livro o que diferencia o seu 
+trabalho em relação ao estado das artes das discussões sobre a matéria: 
+Na maioria dos ramos da lógica acadêmica, como a teoria do silo-
+gismo ou a geometria do espaço ideal, todos os argumentos procuram 
+ter certeza demonstrativa. Eles pretendem ser conclusivos. Mas muitos 
+outros argumentos são racionais e pretendem ter certo peso sem serem 
+conclusivos. Na metafísica, na ciência e na conduta [Ética] a maioria dos 
+argumentos, sobre os quais nós habitualmente baseamos nossa crença 
+racional, são admitidamente inconclusivos em maior ou menor grau. [...] 
+O rumo dado pela História do Pensamento à trajetória da lógica estimu-
+lou o ponto de vista de que raciocínios duvidosos não se incluem no seu 
+âmbito. Mas, no exercício concreto da razão não nos servimos apenas da 
+certeza, nem consideramos irracional depender de um raciocínio duvido-
+so. (Keynes, 1921, p. 2)
+Assim, no TP, Keynes lança as bases de uma teoria do conhecimento em que 
+a probabilidade detém um papel central. No entanto, sua concepção de probabili-
+dade não contabiliza frequência de eventos para a realização de cálculos que resul-
+8 Talvez isso tenha se refletido na própria metodologia da escola pós-keynesiana, pois, como apontam 
+Caldwell (1989) e Dow (2001), vigora nesta teoria a ideia de pluralismo metodológico, embora ainda 
+não se tenha sequer esta posição sido estabelecida no interior do paradigma pós-keynesiano.
+Brazilian Journal of Political Economy  36 (1), 2016 • pp. 70-90
+79
+tem em inferências mais ou menos prováveis, mas relaciona premissas com argu-
+mentos que delas decorrem, sobre os quais se tem maior ou menor grau de 
+convicção. Conforme Keynes “junto com o termo ‘evento’, que até aqui deteve tão 
+importante lugar na fraseologia da matéria, eu dispensarei tudo [...] e será mais do 
+que um progresso verbal discutir a verdade e a probabilidade de proposições, em 
+vez da ocorrência e da probabilidade de eventos” (Keynes, 1921, p. 4).
+O conhecimento é obtido por um processo que tem como ponto de partida o 
+entendimento direto, que é o primeiro passo para que se possa conhecer. Havendo 
+o entendimento, o indivíduo, por meio da intuição, alcança um determinado co-
+nhecimento direto. O entendimento direto decorre de experiências dos indivíduos 
+que, por sua vez, envolvem (i) o uso dos sentidos, (ii) a compreensão de significados 
+e (iii) a percepção de dados derivados dos fatos. Portanto, o entendimento direto 
+constitui a experiência pelo uso dos sentidos, da compreensão e da percepção9 e a 
+intuição que dele emana é peça-chave para a obtenção do conhecimento direto. 
+As proposições, por sua vez, são “os objetos do conhecimento e da crença” 
+(Keynes, 1921, p. 11) e há dois conjuntos de proposições, as premissas e os argu-
+mentos (ou conclusões). As premissas são o conhecimento direto obtido pelo exame 
+dos objetos e a conclusão é o resultado do raciocínio feito a partir das premissas. 
+Em outros termos, em suas experiências os indivíduos alcançam conhecimento 
+direto e deste são capazes de raciocinar outros, a que Keynes (1921) chama indire-
+tos. Nas palavras do autor “deste modo, então, distingo entre conhecimento direto 
+e indireto, entre aquela parte de nosso conhecimento que é baseada no conheci-
+mento direto e naquela parte que é baseada no raciocínio” (Keynes, 1921, p. 13).
+Se, em metáfora, o raciocínio é a ponte entre as premissas e a conclusão, a 
+lógica é a estrutura inerente desta ponte e a probabilidade é a relação lógica que se 
+trava, via raciocínio, entre os dois lados ligados pela ponte. Sobre esta probabili-
+dade relacional há algum grau de convicção racional que o indivíduo possui nas 
+conclusões que ele raciocina a partir de um conjunto de proposições conhecidas. 
+Por isso, “sobre a probabilidade nada podemos dizer, além de que se trata de um 
+grau de crença racional inferior ao da certeza; e, devemos dizer, se quisermos, que 
+ela lida com graus de certeza” (Keynes, 1921, p. 14). A probabilidade refere-se, 
+neste cenário, ao indivíduo deter maior ou menor grau de crença racional em seu 
+argumento. Por analogia, a certeza é o maior grau possível em que se pode acredi-
+tar no raciocínio, isto é, ela é o grau máximo de crença racional. 
+A relação de probabilidade é devida à experiência individual e é, assim, subje-
+tiva10 e relativa11. Inclusive quando se tratam de axiomas lógicos, supostamente 
+9 Keynes (1921) diz ainda que a memória também pode ser fonte de conhecimento; contudo, para a 
+memória tornar-se o que é, ela foi anteriormente experiência, compreensão ou percepção.
+10 Neste ponto, cabe um esclarecimento: no TP, Keynes deixa claro que a lógica não é sujeita ao capricho 
+humano e, portanto, é uma coisa em si, objetiva e independe do sujeito. Contudo, ao criticar o TP, Frank 
+Ramsey argumenta que a lógica proposta por Keynes é subjetiva. Keynes, no obituário de Ramsey, aceita 
+a crítica de Ramsey, argumentando que a lógica apresentada no TP é subjetiva ou humana. Para mais, 
+veja Keynes (1972), Winslow (1986) e Chick e Dow (2001). 
+11 Esta discussão tem intensa interface com a linha de pesquisa atomismo versus organicismo como 
+Revista de Economia Política  36 (1), 2016 • pp. 70-90
+80
+mais objetivos, há subjetividade, pois “devemos admitir que isso [axioma lógico] 
+também é relativo à constituição da mente humana e que esta constituição pode 
+variar em algum grau de homem para homem” (Keynes, 1921, p. 17). O conheci-
+mento está sujeito, portanto, às peculiaridades que surgem de diferentes introspec-
+ções, valores, expectativas individuais e outras características subjetivas que con-
+dicionam, ainda que intuitivamente, o comportamento humano (Keynes, 1973). 
+Com tais bases de entendimento direto, “algum processo mental, difícil de ser des-
+crito” (Keynes, 1921, p. 12), conduzirá o indivíduo ao conhecimento. 
+Em suma, no TP o conhecimento intuitivo é fundamental para a formação de 
+uma crença racional. Por sua vez, o grau de crença racional sustenta-se no peso do 
+argumento, ou seja, no conjunto de evidências disponíveis aos indivíduos no mo-
+mento de formulação do conhecimento indireto. Quanto maior o conjunto de 
+evidências disponíveis, maior confiança terá o sujeito nos argumentos que ele pro-
+põe. A probabilidade, então, tem uma relação significativa com a confiança nos 
+dados disponíveis e não necessariamente com a frequência de disponibilidade dos 
+dados, de forma que as ações dos indivíduos não podem ser baseadas em uma 
+distribuição de probabilidade associada a todos os possíveis eventos futuros.12 
+Em linhas gerais, este é o conteúdo epistemológico do TP que serviu de base 
+para Keynes apresentar a forma pela qual se obtém o conhecimento, bem como sua 
+concepção de probabilidade. Assim sendo, resta perguntar: sob tal epistemologia, 
+qual o método que permite ao raciocínio chegar do entendimento direto ao conhe-
+cimento direto e deste ao indireto? Em outras palavras, qual é o caminho pelo qual 
+se alcança das experiências o conhecimento? Enfim, qual o método do conhecimen-
+to? Para Keynes “processos indutivos têm formado, claramente, em todos os tempos 
+uma vital, habitual, parte da maquinaria da mente” (Keynes, 1921, p. 250). 
+O método indutivo segrega-se, para Keynes (1921), em duas técnicas: a ana-
+logia e a indução pura. A analogia é o raciocínio em que se comparam semelhanças 
+e dessemelhanças entre evidências dos objetos. Ela pode ser em nível das evidências 
+de entendimento direto para com conhecimento direto tanto quanto entre objetos 
+conhecidos e outros que se desejam conhecer. Na indução por analogia, é funda-
+mental que se apresentem analogias negativas, isto é, diferenças nos objetos, pois 
+quanto maior é a variedade entre eles, melhor a generalização. A analogia positiva, 
+por sua vez, são as semelhanças que os objetos detêm. Ao se conhecerem as seme-
+lhanças e dessemelhanças dos objetos particulares é possível ir além deles, ou seja, 
+pode-se generalizar. 
+A indução pura é a generalização pela multiplicação dos casos particulares, em 
+que o argumento ancora-se no somatório de evidências conhecidas que se agregam 
+ao conhecimento direto. Contudo, pouco adianta a multiplicação de instâncias em 
+unidade relevante de teorização e análise em Keynes. Para mais, veja: Bateman (1989, 1991) e Davis 
+(1989-1990), Carabelli (1985), Winslow (1986, 1989a, 1989b) e Rotheim (1989-1990).
+12 Não é demais ressaltar que, se no TP há o binômio probabilidade-peso, na GT o binômio é 
+expectativa-estado de confiança.
+Brazilian Journal of Political Economy  36 (1), 2016 • pp. 70-90
+81
+condições uniformes de experimentação. Caso se façam cem experimentos exata-
+mente iguais, é bastante improvável que surjam evidências diferentes a ponto de se 
+terem generalizações alternativas. Melhor é relacionar os objetos sob condições 
+diferentes, no tempo e no espaço, para que se evidenciem as dessemelhanças e se 
+eliminem as instâncias não essenciais à generalização. 
+Em suma, o método indutivo reúne em parte, analogia e, em parte, indução 
+pura. A analogia é fortalecida pela indução pura, desde que se tenha a multiplicação 
+de evidências por experiências não uniformes que agreguem dessemelhanças redu-
+toras das possibilidades de generalizações alternativas dos objetos em comparação. 
+Quanto mais (i) analogias negativas e positivas forem percebidas e (ii) casos parti-
+culares se somarem à experiência do indivíduo, maior o peso que ele terá em seu 
+argumento, conduzindo-o à uma maior crença racional em suas proposições. Então, 
+o objetivo de se ampliar o número de evidências surge do fato de 
+que estamos quase sempre conscientes de alguma diferença entre os ob-
+jetos e de que mesmo onde a diferença conhecida é insignificante nós po-
+demos suspeitar de que podem existir mais, especialmente quando nosso 
+conhecimento dos objetos é muito incompleto. Toda nova evidência pode 
+diminuir as semelhanças não essenciais entre os objetos e por introduzir-
+-se uma nova diferença amplia-se a Analogia Negativa. Por esta razão, e 
+somente por esta razão, novas instâncias são necessárias. (Keynes, 1921, 
+p. 269)
+Por implicar conclusões a partir de evidências particulares, o método indutivo 
+sempre traz consigo a incerteza, haja vista o célebre problema da indução de David 
+Hume. Contudo, Keynes (1921) não enxerga qualquer problema nisso, pois sua 
+probabilidade não intenta a verdade da relação entre premissas e conclusão, mas 
+a razoabilidade dela. Decorre disto, no TP, a probabilidade lidar com graus de 
+certeza em um conhecimento, isto é, em uma generalização. O conhecimento, mes-
+mo incerto e não terminante, é lógico e válido, mesmo quando não é dotado de 
+verdade demonstrativa, como o é um teorema.13 
+Quando o indivíduo induz, considera-se que o conhecimento direto do qual 
+decorre sua conclusão é verdadeiro. Entretanto, a condição de verdade das premis-
+sas é um requisito para que delas se possa concluir e nada implica que a referida 
+verdade seja inquestionável. Pelo contrário, coerente com sua concepção metodo-
+lógica, Keynes argumenta que 
+não há nada de novo na suposição de que a probabilidade de uma 
+teoria gira em torno das evidências em que ela se apoia; e é comum afir-
+mar que uma opinião provável com base nas evidências inicialmente à 
+mão, diante de outras informações tornou-se insustentável. Enquanto 
+13 Nas palavras de Keynes (1921, p. 284), “mas é certo que Newton e Huygens só foram razoáveis 
+quando suas teorias eram verdadeiras e que seus erros foram frutos de fantasias desordenadas?”.
+Revista de Economia Política  36 (1), 2016 • pp. 70-90
+82
+muda nosso conhecimento ou nossas hipóteses, nossas conclusões têm 
+novas probabilidades, não em si, mas em relação às novas premissas. 
+(Keynes, 1921, p. 7) 
+De acordo com Keynes (1921: 282), “a utilidade da indução depende, sem 
+dúvidas, do conteúdo atual da experiência” e, assim, a experiência sensorial é um 
+meio de entendimento, de conhecimento, de formulação de hipóteses e de se con-
+ferir utilidade prática ao saber via indução. No entanto, a forma pela qual Keynes 
+concebe a indução, e principalmente pelo papel cumprido pela analogia, não a 
+restringe à matéria do fato, mas permite seu uso em níveis abstratos (haja vista a 
+própria experiência pela compreensão de significados), indo além da indução pura 
+histórico-indutiva (ou histórico-dedutiva, à la Bresser-Pereira, 2012). Nestes moldes, 
+a indução em Keynes incorpora os referidos métodos, mas não se restringe a eles, 
+podendo-se considerá-los como formas de expressão do indutivismo em Keynes. A 
+indução, desta forma, pode ser utilizada nas diversas disciplinas científicas, inclu-
+sive naquelas que se relacionam ao estudo do comportamento humano, como as 
+ciências morais e que Keynes (1973) entendia ser a natureza da Economia. Logo, 
+eu não quero sugerir pelo uso do termo indutivo que estes métodos 
+[analogia e pura indução] estão necessariamente confinados aos objetos 
+da experiência fenomênica e àquilo que é por vezes chamado questões 
+empíricas; ou evitar desde o princípio a possibilidade do uso deles em 
+investigações abstratas e metafísicas. (Keynes, 1921, p. 252) 
+O método indutivo, sob a lógica da probabilidade de Keynes, é hábil a tratar 
+o fenômeno econômico, não somente porque apresenta uma teoria do conhecimen-
+to relacionada ao modo pelo qual os sujeitos raciocinam, imbuídos de “motivos, 
+expectativas, incertezas psicológicas” (Keynes, 1973, p. 300), mas, também, por 
+permitir que, diante de seu caráter inconclusivo, a teoria evolua ao longo do tempo, 
+pela inclusão de novos entendimentos e conhecimentos. Muito embora, a indução 
+não consiga chegar a “generalizações completamente acuradas” (Keynes, 1964, p.  
+247), os modelos por ela construídos são abertos, pela complementaridade entre 
+analogia e pura indução, à incorporação do conhecimento novo. Mesmo diante de 
+um material inconstante e heterogêneo, consegue-se “segregar os fatores semiper-
+manentes e relativamente constantes daqueles que são transitórios ou flutuantes a 
+bem de desenvolver uma forma lógica de se pensar sobre os últimos e de entender 
+a sequência de tempo em que eles surgem nos casos particulares” (Keynes, 1973, p. 
+297). Não custa lembrar que tais fatores flutuantes ou transitórios são os que Key-
+nes (1964, p. 247) argumenta, na GT, que “na prática exercitam uma influência 
+dominante sobre nosso objeto” e relacionam-se àquilo que Chick e Dow (2001) 
+chamaram de análise por segmentação/compartimentação. 
+Ademais, o princípio da unidade orgânica torna a incerteza devida à indução 
+ainda mais radical. Consoante Keynes (1973), por causa da unidade orgânica o 
+todo é maior do que o somatório das partes que o compõem e, portanto, as unida-
+Brazilian Journal of Political Economy  36 (1), 2016 • pp. 70-90
+83
+des individuais não podem ser redutíveis a partes iguais, conhecidas e previsíveis. 
+Um indivíduo desconhece a forma pela qual o outro elenca evidências para gene-
+ralizar sendo que a decisão de cada um tem o poder de alterar o todo para além 
+daquilo esperado pelo agente. Não bastasse ser o ambiente desconhecido, ele é 
+ainda passível de alteração dinâmica pelas decisões que os indivíduos tomam, de 
+forma fragmentada e descoordenada. Assim, o conhecimento e o grau de crença 
+racional dos indivíduos em suas conclusões podem oscilar de maneira intempestiva, 
+pois as premissas nas quais se ancoram alteram-se com constância. 
+Não obstante, o conhecimento por indução corrobora, ainda, o caráter nãoer-
+gódico da realidade, destacado por Davidson (1982-83). Como aponta Hayes 
+(2006), a nãoergodicidade é uma característica inerente dos sistemas/modelos aber-
+tos (Lawson, 1997) e resulta do fato de que as evidências não se distribuem com 
+média zero no espaço amostral ou nos dados temporais, de forma que o valor espe-
+rado delas não pode ser calculado. Mesmo no caso especial de isso acontecer – ou 
+seja, a ergodicidade dos modelos neoclássicos – a indução a partir de dados parti-
+culares não permite a certeza do conhecimento, pois, como afirma Keynes (1921), 
+a regularidade de certos fenômenos, como o sol levantar-se todas as manhãs é, no 
+máximo, uma correlação indutiva e não um conhecimento certo dos fenômenos 
+objetivos. Uma nova evidência, mesmo que se posicione na média da amostra, pode 
+ocasionar argumentos completamente novos que alteram por completo o antigo 
+status quo. Logo, melhor “é a crença que o sol deve nascer amanhã, ao invés da 
+crença de que ele sempre nascerá” (Keynes, 1921, p. 298).
+Para que se possa concluir sobre como o método indutivo é importante em 
+Keynes, buscam-se evidências de que o exposto no TP tenha sido praticado pelo 
+autor ao longo de sua obra. Nesse sentido, a próxima seção vai nessa direção. Co-
+mo mencionado na Introdução do artigo, o recorte analítico dar-se-á sobre três 
+obras econômicas de Keynes, quais sejam: Tract, TM e GT.14 
+As evidências do método indutivo em Keynes
+Podem-se perceber evidências de que Keynes se utiliza da epistemologia e da 
+metodologia expressas em seu TP sob dois âmbitos: (i) no comportamento do 
+agente teorizado e (ii) no seu método enquanto teórico. Diga-se de passagem, o 
+primeiro âmbito é o mais comumente debatido na literatura; contudo, também no 
+segundo é possível notar o papel do método indutivo em Keynes como uma das 
+formas pela qual ele se apodera do fenômeno a ser compreendido. Não obstante, 
+os dois âmbitos são a expressão daquilo que Carvalho (2003) pontua como o in-
+vestigador enquanto agente econômico. O teórico é partícipe da realidade tanto 
+quanto um agente e, então, consegue experimentá-la e teorizá-la. 
+Pois bem, se para fins de epistemologia e metodologia o tempo pode não ser 
+14 Nas referências, veja-se: Keynes (1971a, 1971b, 1964), respectivamente, ao Tract, ao TM e à GT.
+Revista de Economia Política  36 (1), 2016 • pp. 70-90
+84
+uma variável fundamental, para a investigação econômica ele é. É ao longo dele 
+que as decisões dos agentes se concretizam, inclusive aquelas sobre a ampliação de 
+sua riqueza. Sendo o conhecimento incerto, não há como conhecer qual a forma 
+desta concretização, se vantajosa ou não. Por conta disso, os agentes criam expec-
+tativas, e não certezas, sobre o futuro. Essa é a aplicação da noção keynesiana de 
+probabilidade, conforme atestam, na GT, as palavras de Keynes (1964, p. 148): 
+por “muito incerto” eu não quero significar a mesma coisa que “mui-
+to improvável”. Cf. meu Tratado sobre a Probabilidade [...] [e] o estado 
+da expectativa a longo prazo, sobre a qual se baseiam nossas decisões, 
+não depende somente do prognóstico mais provável que podemos formu-
+lar. Depende, também, da confiança com que fazemos este prognóstico.
+Ainda sobre a incerteza no âmbito do agente, no Tract os indivíduos, a partir 
+de seus hábitos, reservam encaixes monetários e, assim, influenciam o nível de 
+preços. No TM, as expectativas se traduzem tanto na taxa natural de juros, que 
+iguala poupança e investimento, quanto nos comportamentos bull e bear dos agen-
+tes no mercado financeiro, bem como na relação entre taxa de desconto e ganhos 
+esperados dos agentes. Pode-se ainda ressaltar na GT o confronto, dependente do 
+conhecimento incerto que os agentes possuem sobre o futuro, entre a eficiência 
+marginal do capital e a preferência pela liquidez e sua consequente taxa de juros. 
+Assim, a dinâmica econômica torna-se condicionada ao modo pelo qual os agentes 
+absorvem e raciocinam ao longo do tempo e sob incerteza.
+Não obstante, é notável que analogia e indução pura são fundamentais para 
+a tomada de decisão do agente. No TM a igualdade entre poupança e investimen-
+to depende da equivalência entre a taxa de juros do mercado e a taxa de juros 
+natural. Logo, o comportamento do agente e a dinâmica econômica são influencia-
+dos pela analogia que o agente faz entre o juro natural e o juro de mercado. Este 
+ele conhece no presente, mas seu comportamento futuro não. Da expectativa, por 
+analogia, que ele fizer entre o presente e o futuro dependerá sua maior ou menor 
+alocação de moeda na circulação financeira do capital. Na GT, como mostra Hes-
+se (1987), a eficiência marginal do capital e a preferência pela liquidez ancoram-se 
+no pensamento, por analogia, de que as condições conhecidas do presente se asse-
+melharão às do futuro.
+Como visto, para a indução pura somam-se evidências que são acessíveis ao 
+indivíduo. Caso este seja um empresário buscando elementos para decidir sobre a 
+ampliação de seu estoque de capital produtivo, lhe serão conhecidos o valor do 
+salário mínimo, a taxa de desemprego, o nível de preços e o grau da concorrência, 
+entre outros fatores. Além disso, a política econômica também é interpretada como 
+uma evidência sobre o ambiente de negócios. Por isso ela deve atuar, por um lado, 
+buscando estabilizar automaticamente o ciclo econômico e, por outro lado, estru-
+turando um cenário institucional propício aos investimentos produtivos, como 
+argumentam Ferrari Filho e Terra (2011). Por sua vez, as convenções destacadas 
+por Keynes na GT também representam conhecimento sobre o qual se ancora o 
+Brazilian Journal of Political Economy  36 (1), 2016 • pp. 70-90
+85
+animal spirits dos empresários. De todas estas formas, multiplicam-se as evidências 
+diretamente conhecidas de maneira que os argumentos dos investidores sobre o 
+futuro tenham mais peso e, portanto, lhes implique maior estado de confiança. 
+Se os agentes lidam com o resultado incerto de suas ações, o mesmo vale para 
+as autoridades econômicas. As políticas monetária e cambial, por exemplo, operam 
+buscando influenciar o comportamento dos agentes e, portanto, não são de impac-
+to direto sobre a atividade econômica. Não é por menos que no Tract e no TM, 
+livros que investigam, notadamente, os fatores que fazem variar o nível de preços 
+e, por consequência, o valor da moeda, Keynes é cético sobre os resultados passíveis 
+de serem alcançados pela política monetária. Na GT, em que a variável preço é 
+secundária em relação às variáveis emprego e produto, o ceticismo de Keynes com 
+relação à política monetária parece ser mais profundo do que nos livros anteriores, 
+à medida que afirma: “de minha parte eu sou presentemente cético acerca do su-
+cesso de uma política meramente monetária no sentido de influenciar diretamente 
+a taxa de juros” (1964, p. 164). Por isso, a preferência de Keynes é pela política 
+fiscal, cujo impacto na demanda agregada é imediato (Ferrari Filho e Terra, 2011). 
+De todo modo, por funcionar como um conhecimento direto ao indivíduo, desde 
+o Tract, afirmava Keynes, 
+o remédio residirá, de preferência, em se controlar o padrão de valor 
+[...] colocando-se em marcha algum fator contrário à tendência. Mesmo 
+se a política não for completamente bem sucedida, tanto em compensar 
+as expectativas ou em evitar movimentos atuais, ela será uma melhoria 
+na política de ficar-se quieto. (1971a, p. 35)
+Note-se, portanto, que nas obras econômicas analisadas, a presença da indução 
+tal qual desenvolvida por Keynes no TP é evidente. Cabe procurar, agora, elemen-
+tos que permitam localizar o papel do método indutivo na abordagem que Keynes 
+realiza para apreender o fenômeno econômico. Assim sendo, são notáveis as diver-
+sas alusões à experiência ao longo do Tract, do TM e da GT. Nesse particular, 
+vários são as funções dela, mas todas se referem à coleta de evidências para se 
+abordar o sistema econômico. A experiência serve como fonte de problemas para 
+investigação, a exemplo do Tract, em que “as flutuações no valor da moeda desde 
+1914 foram em uma escala tão grande a ponto de constituir, com tudo o que ela 
+envolve, um dos mais significantes eventos na história econômica moderna” (1971a, 
+p. 1).15 A experiência, ademais, inspira categorizações para se modelarem compor-
+tamentos, tais como “a segunda categoria de depósitos de poupanças compreende 
+o que, em linguagem emprestada das bolsas de valores, nós chamaremos de posição 
+bear” (Keynes, 1971b, p. 223). 
+A experiência também é base para Keynes lançar e validar hipóteses, como no 
+15 Note-se, o próprio objeto do livro, Um tratado sobre a reforma monetária, decorre da observação 
+deste fenômeno por Keynes.
+Revista de Economia Política  36 (1), 2016 • pp. 70-90
+86
+caso das quatro condições de estabilidade que impedem movimentos cíclicos inten-
+sos no sistema econômico. Nas palavras do autor, “ora, como estes fatos da expe-
+riência não se seguem de necessidade lógica, pode-se supor que o ambiente e as 
+propensões psicológicas do mundo moderno são de um tipo tal que produzem este 
+resultado [estabilidade]” (Keynes, 1964, p. 250). E, reiteradamente ao longo do 
+capítulo 18 da GT, “não obstante, a experiência mostra” (Keynes, 1964, p. 252) 
+ou “nossa terceira condição concorda com nossa experiência da natureza humana” 
+(Keynes, 1964, p. 252), até que, por fim, “deste modo nossas quatro condições em 
+conjunto são adequadas para explicar as características bem conhecidas de nossa 
+experiência corrente” (Keynes, 1964, p. 254).
+Ainda no referido capítulo da GT há evidência da indução, dada inclusive 
+pelo título dele: A Teoria Geral do Emprego Reafirmada. É nele que Keynes con-
+firma a generalidade de sua teoria, após ter examinado as relações causais de di-
+versas instâncias particulares, tais como: o que causa o emprego? O que causa a 
+demanda efetiva? O que causa o consumo? O que causa o investimento? O que 
+causa a taxa de juros da moeda? Por que a moeda e não qualquer outro ativo? Ao 
+se investigar cada uma destas variáveis, o que se pode generalizar? Induz-se e rea-
+firma-se, a partir das premissas do conhecimento direto, o argumento da GT.
+Raciocínios por analogia também estão presentes, notadamente nas discussões 
+mais abstratas. Em especial, a forma pela qual Keynes questiona na GT o segundo 
+postulado da Economia Clássica. O referido postulado clássico aponta que redu-
+ções no salário nominal implicam menores salários reais (ou aumentos em sua 
+identidade, a desutilidade marginal do trabalho) e conduzem ao aumento do de-
+semprego. Por analogia, variações dos preços, dados os salários nominais, condu-
+zem à redução dos salários reais (ou aumentos na desutilidade marginal do traba-
+lho) e causam aumento do desemprego? Esta analogia é falsa, pois, não se veem 
+trabalhadores deixando seus empregos por conta de aumentos no custo de vida. 
+Keynes, então, parte para a indução pura, somando-a à analogia, o que lhe permi-
+te, por um lado, concluir um problema na teoria Clássica e, por outro lado, buscar 
+soluções para o problema teórico. Neste contexto, 
+ora, a experiência ordinária nos diz, sem dúvidas, que a situação em 
+que o trabalhador estipula (...) os salários monetários ao invés dos reais, 
+longe de ser uma mera possibilidade, é o caso normal. Enquanto os tra-
+balhadores resistirão sempre a uma redução dos seus salários monetários, 
+não é da prática deles abandonar seus empregos sempre que houver um 
+aumento nos preços dos bens-salário. (Keynes, 1964, p. 9) 
+Como se não bastasse, somem-se as seguintes observações factuais: “mas, seja 
+lógico ou não, a experiência mostra que é este o comportamento dos trabalhadores” 
+(Keynes, 1964, p. 9) e “ademais, o argumento de que o desemprego que caracteriza 
+a depressão é devido à recusa do trabalho de aceitar uma redução em seus salários 
+monetários não é claramente atestada pelos fatos” (Keynes, 1964, p. 9). Por fim, 
+Brazilian Journal of Political Economy  36 (1), 2016 • pp. 70-90
+87
+“estes fatos da experiência são, prima facie, base para se questionar a adequação da 
+teoria clássica” (Keynes, 1964, p. 9).
+Outra analogia relevante da GT se expressa na abordagem do fenômeno 
+juros (Keynes, 1964, cap. 13). Como afirma a teoria Clássica, sendo os 
+juros a recompensa pela espera, por consequência, toda espera deve ser 
+recompensada. Por analogia, por que a espera em moeda, então, não paga 
+juros? Ao não poder responder a tal questão, corrobora-se que a teoria 
+Clássica não pode ser geral, pois ela não lida com todas as vicissitudes 
+do sistema econômico. Por fim, saliente-se a analogia pela qual se pode 
+compreender a relação entre investimento produtivo, taxa de juros e 
+moeda, que resulta de Keynes (1964, cap. 17). Todos estes objetos possuem 
+naturezas semelhantes por serem meios de se reservar valor; contudo, são 
+diferentes em qualidades como risco, custo de carregamento e prêmio 
+de liquidez. Logo, pelo exame das semelhanças e dessemelhanças, pode-
+se concluir que eles sejam alternativos uns aos outros. E, conhecendo as 
+características e as influências de cada um destes objetos, pôde Keynes 
+(1964) modelar os determinantes do emprego e do produto.
+Diante de inúmeras evidências, parece haver pouca dúvida de que o método 
+indutivo foi um importante caminho para Keynes construir sua obra. Por conse-
+guinte, o autor não somente defendeu a validade dele enquanto meio de se conhe-
+cer, mas aplicou-o para elaborar suas teorias sobre fenômenos econômicos. Além 
+disso, coerente com sua posição epistemológica, em que o conhecimento por indu-
+ção é inconclusivo e, portanto, novas evidências podem levar a novas conclusões, 
+seus objetos e suas concepções teóricas foram, em parte, se alterando ao longo do 
+tempo. Exemplo notável é a teoria quantitativa da moeda, dada como válida por 
+Keynes no Tract, pelo menos no longo prazo, e refutada na GT. Enfim, “uma teoria 
+científica não pode pretender que os fatos se ajustem a suas próprias hipóteses” 
+(Keynes, 1964, p. 276) e, assim sendo, a cada incorporação de conhecimentos, as 
+teorias se adaptam, para perseguirem “os fatores que, principalmente, determinam 
+o nosso quaesitum” (Keynes, 1964, p. 247). 
+Considerações finais
+Como visto, Keynes buscou validar a indução não somente como um método 
+científico, mas, também, como um caminho intuitivo pelo qual os sujeitos, em geral, 
+podem conhecer. Talvez, o papel do método indutivo seja uma das facetas mais 
+importantes da revolução teórica keynesiana, pois investigador e investigado são 
+“agentes” comuns, usam da mesma lógica ordinária, observam, sentem e experimen-
+tam o real world da mesma forma, algo fundamental para que a teoria detenha não 
+um significado contemplativo, mas, sim, prático de intervenção na realidade, prin-
+cipalmente em um contexto econômico sujeito a instabilidades e desequilíbrios, 
+como é o caso de economias monetárias. 
+Revista de Economia Política  36 (1), 2016 • pp. 70-90
+88
+Embora a questão metodológica em Keynes esteja em aberto, os argumentos 
+e as evidências apresentadas neste artigo permitem concluir que o método indutivo 
+está bastante presente na obra de Keynes, tanto na forma pela qual o empresário, 
+sujeito teorizado, age, quanto como método de abordagem que permitiu ao autor 
+conceber o fenômeno econômico como uma economia monetária da produção. O 
+método histórico-indutivo relaciona-se intimamente com a indução de Keynes e, 
+assim sendo, é possível inferir que o indutivismo de Keynes fornece as bases para 
+o referido método, podendo ser ele considerado como uma forma específica da 
+indução, em especial, da indução pura. 
+Tão importante quanto isso é enfatizar que os fundamentos epistemológicos e 
+metodológicos dele não estão circunscritos apenas às influências recebidas ou são 
+apropriações que ele faz de métodos utilizados por outros teóricos. Keynes deu-se 
+o trabalho de conceber um aparato intelectual próprio que lhe permitiu desenvolver 
+seus trabalhos econômicos e que oferece explicações funcionais para a trajetória 
+histórica do sistema. Seus pressupostos epistemológicos e metodológicos buscam, 
+e apresentam fundamentos lógicos para tanto, tornar válido o conhecimento incer-
+to, elemento fundamental para explicar o comportamento de uma economia mo-
+netária da produção. Logo, uma importante conclusão a que se pode chegar neste 
+artigo é que a incerteza inerente à ação dos agentes não é um pressuposto da teoria 
+econômica de Keynes, mas é uma decorrência de sua teoria do conhecimento, pois 
+“nosso conhecimento, contudo [...] é frequentemente obtido indutivamente, e com-
+partilha a incerteza a que todas as induções são passíveis” (Keynes, 1921, p. 108). 
+Por fim, ressaltem-se duas observações: por um lado, sendo a Economia, para 
+Keynes, uma ciência moral, a indução permite estabelecer a racionalidade da deci-
+são individual em um mundo incerto. Nesse sentido, Keynes não observava a in-
+dução apenas como um método científico, mas como a forma pela qual os sujeitos 
+em geral conhecem. Por outro lado, embora o artigo tenha explorado o papel da 
+indução em Keynes e o método indutivo, sua vasta e variada obra deve, certamen-
+te, utilizar-se de outros métodos. 
+Referências bibliográficas
+Bateman, B. W. (1989). “Human logic” and Keynes’ economics: a comment”. Eastern Economic Jour-
+nal, v. 15, nº1: 63-67.
+Bateman, B. W. (1991). “Das Maynard Keynes problem”. Cambridge Journal of Economics, v. 15, nº1: 
+100-111. 
+Blaug, M. (1975). “Kuhn versus Lakatos, or paradigms versus research programmes in the history of 
+economics”. History of Political Economy, v. 7, nº4: 269-280.
+Blaug, M. (1999). Metodologia da Economia. São Paulo: EDUSP. 
+Bresser-Pereira, L. C. (2009). “Os dois métodos e o núcleo duro da teoria econômica”. Revista de Eco-
+nomia Política, v.29, nº2 (114): 163-190, abril-junho.
+Bresser-Pereira, L. C. (2012). “Why Economics should be a modest and reasonable Science” Journal of 
+Economic Issues, v.XLVI, nº2: 291-301, June. 
+Caldwell, B. J. (1989) “Post-Keynesian methodology: an assessment”. Review of Political Economy, v. 
+1, nº 1, pp. 43-64.
+Brazilian Journal of Political Economy  36 (1), 2016 • pp. 70-90
+89
+Carabelli, A. (1985). “Keynes on cause, chance and possibility”. In: Lawson, T.; Pesaran, H. (eds.). 
+Keynes’ Economics Methodological Issues. Armonk: M. E. Sharpe, pp. 151-180. 
+Carvalho, F. J. C. (1988). “Keynes on probability, uncertainty and decision making”. Journal of Post-
+-Keynesian Economics, v. 11, nº1: 66-81.
+Carvalho, F. J. C. (1992). Mr.Keynes and the Post Keynesians. Aldershot: Edward Elgar.
+Carvalho, F. J. C. (2003). “Características essenciais do método de Keynes na Teoria Geral”. In: Cora-
+zza, G. (org.). Métodos da Ciência Econômica. Porto Alegre: UFRGS, pp. 175-188. 
+Chick, V. (1998). “On knowing one’s place: the role of formalism in Economics”. The Economic Jour-
+nal, v. 108, nº 451: 1859-1869.
+Chick, V. (2004). “On open systems”. Revista Brasileira de Economia Política, v.24, nº 1 (93): 3-16, 
+janeiro-março.
+Chick, V.; S. Dow (2001). “Formalism, logic and reality: a Keynesian analysis.” Cambridge Journal of 
+Economics, v. 25, nº 6: 705-721. 
+Corazza, G. (org.) (2003). Métodos na Ciência Econômica. Porto Alegre: UFRGS.
+Corazza, G. (2009). “Aspectos metodológicos do pensamento de Keynes”. Anais do XXXVII Encontro 
+Nacional de Economia. Foz do Iguaçu: ANPEC.
+Costa, C. (2002). Filosofia da linguagem. Coleção Passo a Passo Filosofia, v.5. Rio de Janeiro: Jorge 
+Zahar. 
+Crotty, J. R. (1990). “Keynes on the stages of development of the capitalist economy: the institutional 
+foundations of Keynes’s methodology” Journal of Economic Issues, v. 24, nº 3: 761-780.
+Davidson, P. (1972). Money and The Real World. Londres: Macmillan.
+Davidson, P.. (1982-83). “Rational expectations: a fallacious foundation for studying crucial decision 
+making process”. Journal of Post Keynesian Economics, v. 5, nº 2: 182-198.
+Davis, J.B. (1989-1990). “Keynes and organicism”. Journal of Post Keynesian Economics, v. 12, nº 2: 
+308-315.
+Dow, S. (2001). “Post Keynesian methodology”. In: Pressman, S.; Holt, R. P. F.(eds.). A New Guide to 
+Post-Keynesian Economics. Londres: Routledge, pp. 12-20.
+Eichner, A. S. (1984). “Mirando hacia adelante”. In: Eichner, A. S. (ed.). Economía PostKeynesiana. 
+Madrid: Hermann Blume, pp. 185-204.
+Ferrari Filho, F.; F.H.B.Terra (2011). “As disfunções do capitalismo na visão de Keynes e suas proposi-
+ções reformistas”. Revista de Economia Contemporânea, v.15, nº 2: 271-295. 
+Fonseca, P. C. D. (2003). “O método como tema: controvérsias filosóficas, discussões econômicas”. In: 
+Corazza, G. (org.). Métodos da Ciência Econômica. Porto Alegre: UFRGS, pp. 17-34.
+Fonseca, P. C. D. (2010). “Keynes: o liberalismo econômico como mito”. Economia e Sociedade, v. 19, 
+nº 3: 425-447.
+Gerrard, B. (1992). “From a treatise on probability to the General Theory: continuity or change in 
+Keynes’s thought?” In: Gerrard, B.; Hillard, J. (eds.). The Philosophy and Economics of J. M. 
+Keynes. Aldershot: Edward Elgar, pp.80-95.
+Germer, C. (2003). “A relação abstrato/concreto no método da economia política”. In: Corazza, G. 
+(org.). Métodos da Ciência Econômica. Porto Alegre: UFRGS, pp. 61-92.
+Hayes, M. (2006) “Financial bubbles”. In: Arestis, P.; Sawyer, M. (eds.) A Handbook of Alternative 
+Monetary Economics. Cheltenham: Edward Elgar, pp. 420-437. 
+Hegenberg, L. (1976). Leis, teorias e método. Etapas da Investigação Científica, v. 2. São Paulo: EDUSP. 
+Hesse, M. (1987). “Keynes and the method of analogy”. Topoi, v. 6, nº1: 65-74.
+Keynes, J. M. (1921). Treatise on Probability. London: MacMillan and Co. Disponível em: http://www.
+gutenberg.org/ebooks/32625. Acesso em dezembro de 2012.
+Keynes, J. M.. (1964). The General Theory of Employment, Interest and Money. Nova York: HBJ 
+Book. 
+Keynes, J. M. (1971a). A Tract on Monetary Reform (CWJMK, v.IV). London: Cambridge University 
+Press.
+Keynes, J. M.. (1971b). A Treatise on Money: the pure theory of money (CWJMK, v.V). London: Cam-
+bridge University Press.
+Revista de Economia Política  36 (1), 2016 • pp. 70-90
+90
+Keynes, J. M. (1972). Essays in Biography (CWJMK, v. X). London: Cambridge University Press.
+Keynes, J. M. (1973). The General Theory and After: defense and development (CWJMK, v. XIV). Lon-
+don: Cambridge University Press.
+Kregel, J. (1976). “Economic methodology in the face of uncertainty: the modeling methods of Keynes 
+and the post-Keynesians”. The Economic Journal, 86, nº 342: 209-225. 
+Lawson, T. (1997) Economics and Reality. London: Routledge.
+O’Donnell, R.M. (1989). Keynes: Philosophy, Economics and Politics. New York: St.Martin’s Press.
+O’Donnell, R.M. (2002). “The thick and the thin of controversy: a critique of Bateman on Keynes”. 
+Macquarie Economics Research Papers, v. 4. Disponível em: http://www.econ.mq.edu.au/Econ_
+docs/research_papers2/2002_research_papers/4-2002_ODonnell.PDF, acesso em março de 2013.
+Robinson, J. (1984). Prólogo. In: Eichner, A. S. (ed.). Economía PostKeynesiana. Madrid: Hermann 
+Blume, pp. 11-25.
+Rotheim, R. J. (1989-1990). “Organicism and the role of individual in Keynes’s thought”. Journal of 
+Post-Keynesian Economics, v. 12, nº 2: 316-326.
+Shackle, G. (1969). Um Esquema da Teoria Econômica. Rio de Janeiro: Jorge Zahar.
+Souza, M. G. (2003). “Método e visão de mundo em Keynes: uma abordagem alternativa”. In: Corazza, 
+G. (org.). Métodos da Ciência Econômica. Porto Alegre: UFRGS, pp. 153-174.
+Winslow, E. G. (1986). “Human Logic” and Keynes’ Economics”. Eastern Economic Journal, v. 12, nº4: 
+413-430.
+Winslow, E. G. (1989a). “Human logic” and Keynes’ Economics: a reply to Bateman”. Eastern Econo-
+mic Journal, v. 12, nº4:67-70.
+Winslow, E. G. (1989b). “Organic interdependence, uncertainty and economic analysis”. Economic 
+Journal, v. 99, nº 398: 1173-1182. 
+Brazilian Journal of Political Economy  36 (1), 2016 • pp. 70-90
+
+
+[PDF Imagem: métodos analíticos em Keynes_Silva ME.pdf]
+
+--- Página 1 ---
+silva i M+vcos E (Jªªl) Teseia Gouõx '
+
+é eAA SAA aa
+Uma :lrílfo/npve.%aqss &s 'L_('_ª,ºZW [NTA
+
+qT1CE-USP, /f& ng« ss 'pa_,._;(,g
+
+Capítulo I
+
+Máétodos Analíticos
+em Economia: $
+Marshall e Walrasº
+
+O método analítico utilizado pelos pós-keynesia-
+nos (senso cstrito) bascia-se fundamentalmente em
+Marshall c difere sob vários aspectos do método walrasia-
+no. As diferenças são muito maiores do que simplesmente
+0por-se a um modelo de “equilíbrio geral” outro de “equi-
+líbrio parcial”, pois o que sc discute é a própria noção de
+equilíbrio. O fato de se aceitarem seus princípios mcetodo-
+lógicos não significa que os problemas e às soluções que
+Keynes discute sejam os mesmos de Marshall, mas sim
+que a mensagem keynesiana fica mais clara quando anali-
+sada sob csta ótica.
+
+6 O que se segue bascia-se principalmente em Marshall (1982), Walras (1983),
+Ilansen (1970); Leijonhufvud (1974) e Frisch (1950),
+
+
+--- Página 2 ---
+Sila, Mavcos fugtvuo . Teowumas Gernal tma u-“àu(-m aças
+03 - KMeuwesan=a - 179
+14 TRORIA GERAL: UMA INTERPRETAÇÃO PÓS-KEYNESIANA
+
+A sequir, dados os objetivos do presente trabalho, co-
+mentar-se-ão brevemente as diferenças mais importantes exis-
+tentes entre os dois métodos.
+
+1 Walras
+
+Para os walrasianos, cequilíbrio significa "consistência
+de planos individuais", que é obtida usando-se a metafórica
+figura de um "leilociro" que anuncia um vetor de preços para
+todos os bens e serviços disponíveis nos mercados (presentes
+e futuros) c pede que os agentes façam suas propostas de com-
+pra e venda; aqueles bens e serviços para os quais há um cex-
+cesso de oferta agregada ao se computar todas as ofertas e
+demandas individuais têm os seus preços rebaixados; os bens
+que apresentam um excesso de demanda agregada têm os seus
+preços aumentados e aqueles bens para os quais a demanda
+agregada é igual à oferta agregada têm os seus preços manti-
+dos. O "Ileilociro" só permitirá que se façam trocas quando cele
+anunciar um vetor de preços para o qual os planos dos agentes
+sejam consistentes, i.e., não haja nem excesso de oferta nem
+de demanda para nenhum bem ou serviço. Neste sentido, não
+existem “trocas falsas” na cconomia. O equilíbrio é obtido,
+portanto, por um processo de tentativa (tátonnement) guiado
+pelo leilociro e garante que todos os agentes terão atendidos
+os scus planos de forma consistente uns com os outros. Para
+se chegar a esse resultado, postula-se a existência de recontra-
+tos a fim de que trocas falsas não ocorram c a tendência ao
+equilíbrio possa prevalecer.
+
+Nessc processo, existe uma separação rigorosa dos
+planos de análise individual e de mercado, estando bem defi-
+nidas às regras de determinação do comportamento dos agen-
+tes individuais, do sistema de agregação de demandas c ofer-
+tas c do comportamento do mercado como um todo. Isto signi-
+fica que o indivíduo, ao formular os sceus planos, é influencia-
+do apenas pelo seu comportamento, sendo totalmente imune
+ao que vai se passar no mercado como um todo. AÀs suas de-
+mandas c ofertas são funções (ex-ante) de comportamento do
+tipo: sc a1, então bi ; se a2, então b2. Mas não expressam a
+reação dos agentes ao que possa estar ocorrendo de fato nos
+mercados, isto é, não são influenciados diretamente pela con-
+corrência c não são passíveis de uma interpretação ex-post (a
+concorrência nos mercados é simbolizada pela ação do leiloci-
+ro c não pela ação dos agentes). À noção de concorrência está
+associada, aqui, fundamentalmente à incapacidade de os agen-
+
+
+--- Página 3 ---
+TEORIA GERAL: UMA INTERPRETAÇÃO PÓS-KEYNESIANA 15
+
+tes individuais influenciarem de forma isolada os preços de
+equilíbrio.
+
+O modelo de equilíbrio geral walrasiano expressa
+como nenhum outro a idéia de liberdade individual c de racio-
+nalismo da ação dos homens. Trata-se de um modelo rigorosa-
+mente atomista.
+
+Marshall
+
+No modelo marshalliano não cexiste uma distinção cla-
+ra da sequência experimento individual, agregação c experi-
+mento de mercado, pois aqui a preocupação central é com o
+obscrvável (mercado) c não com o plancejado (indivíduo). À
+própria definição de equilíbrio é diferente, e passa a significar
+"constância de comportamento obscervado" (Lceijonhuvud,
+1974), uma idéia que necessariamente envolve o tempo, ao
+contrário da definição walrasiana que pode ser reduzida a um
+conjunto de regras lógicas e é atemporal. ÀA otimização de to-
+dos os planos dos agentes e a sua consistência pode ser uma
+condição suficiente para o equilíbrio marshalliano, mas não é
+condição necessária.
+
+A concorrência marshalliana não pode ser simbolizada
+pela ação de uma entidade ou de um Iceilociro; cla perpassa a
+ação de todos os indivíduos. ELx-ante um vendedor marshallia-
+no não conhece o preço de mercado nem faz conjecturas sobre
+ele, apenas ex-post pode-se dizer que o preço é igual ao custo
+marginal c mesmo assim somente para a firma representativa,
+que não é uma empresa real, mas sim uma construção virtual
+para expressar o comportamento do mercado como um todo. O
+fato de a firma representativa estar em equilíbrio não significa
+que todas as firmas reais o estejam; pelo contrário, ao preço
+de equilíbrio algumas firmas estão sendo estimuladas a au-
+mentar a sua produção, outras que se encontravam já em fase
+de decadência podem ter a sua vida prolongada ou a sua morte
+acelerada etc. AÀA imagem que melhor traduz a idéia de Mars-
+hall é a de um lago em que a superfície está calma mas abaixo
+dela ocorre toda a movimentação dos peixes e outras formas
+de vida.
+
+Para Marshall, a pergunta que um vendedor faz ao de-
+cidir quanto levar para o mercado é: que preço espero receber
+e que seja suficiente para justificar essa produção, dada a mi-
+nha expectativa de ação de todos os vendedores e comprado-
+
+--- Página 4 ---
+1
+
+16
+
+TEORIA GERAL: UMA INTERPRETAÇÃO PÓS-KEYNESIANA
+
+res? (ou seja, levando em conta a concorrência já na sua deci-
+são, não cabendo aqui a simbologia do leilociro walrasiano).
+
+O ajuste de mercado marshalliano sempre leva em
+conta a experiência passada, que norteia a ação de comprado-
+res e vendedores, e a ação do tempo no processo de mudança
+de um ponto de equilíbrio para outro, daí a sua preferência
+pela analogia da cconomia não com a física, mas sim com a
+biologia.
+
+Três conceitos básicos cstão acoplados na teoria
+marshalliana: "firma representativa, lucro normal c cestado
+estacionário". Os “verdadeiros pontos de equilíbrio” só
+são atlingíveis a longo prazo, num cstado cestacionário em
+que não exista tendência à entrada ou saída de capital dos
+vários mercados, isto é, as firmas representativas de cada
+mercado cstão recebendo apenas o lucro normal, c os pre-
+ços de equilíbrio são iguais aos custos de produção.
+
+É através da junção desses 1rês conceitos que
+Marshall tenta conciliar a lei dos rendimentos decrescentes,
+válida a curto prazo, com a lei de rendimentos crescentes, vá-
+lida a longo prazo. À sua conclusão é que o conceito de custo
+marginal de longo prazo na realidade não é operacional, sendo
+relevante apenas o conceito de custo total médio de longo pra-
+zo, o qual reflete exatamente o preço de equilíbrio.
+
+O seu conceito de equilíbrio está mais próximo do de
+Ricardo, apesar de sua tentativa de conciliar a teoria do valor
+utilidade jevoniana com a teoria do valor trabalho (à qual cle
+adiciona o elemento “esperaáa” para justificar o lucro a longo
+prazo) . Como sc verá no Capítulo V, a tendência de equilí-
+brio a longo prazo aparcecerá de forma distinta em Keynes,
+não significando tendência ao “estado estacionário”, se por es-
+tado estacionário entende-se investimento líquido igual a zero.
+
+Em Marshall, as relações de causalidade entre as va-
+riáveis estão bem determinadas e levam em conta explicita-
+mente a ação do tempo. Por exemplo, a curto prazo são as
+condições de demanda que mais importam para determinar
+OS preços, ao passo que a longo prazo são as condições de
+oferta que se impõem. Além disso, o método de equilíbrio
+
+F
+
+“£No Apêndice 1 — A Teoria do Valor de Ricardo, Marshall (1982) expõe com
+clareza as relações que vê entre a teoria do valor utilidade e teoria do valor
+determinada pelos custos de produção.
+
+--- Página 5 ---
+TEORIA GERAL: UMA INTERPRETAÇÃO PÓS-KEYNESIANA 17
+
+parcial é utilizado para dividir as dificuldades que a ação do
+tempo coloca e não para eliminá-las; deve-se analisar um pro-
+blema de cada vcez, utilizando-se a condição de ceteris pari-
+bus e progressivamente incorporar-se os outros. “Este expe-
+diente científico é bem mais velho do que a ciência: é o
+método pelo qual, conscientemente ou não, homens sensatos
+trataram desde tempos imemoriais cada problema difícil da
+vida ordinária” (Marshall, 1982. vol. 1, p. 10).
+
+A posição defendida no presente trabalho — isto é, de
+que Keynes estava preocupado com o estudo de desemprego
+involuntário numa perspectiva de longo prazo — possui uma
+base metodológica marshalliana, na qual o termo cstático não
+cestá necessariamente associado a análise de curto prazo. AÀ ci-
+tação seguinte é ilustrativa de posição marshalliana (c tam-
+bém, para-o autor, da de Keynes):
+
+“No cstado estacionário, todas as condições de pro-
+dução e de consumo são reduzidas à inércia. Suposições me-
+nos chocantes, todavia, são feitas pelo metodo chamado,
+algo impropriamente, estático. Por este método, fixamos
+nossas mentes em certo ponto central: supomo-lo por um
+momento em cestado estacionário c, então, estudamos em re-
+lação a cle as forças que influem sobre as coisas que o cir-
+cundam e qualqer tendência que se possa manifestar para o
+equilíbrio dessas forças. Um bom número desses estudos
+parciais pode abrir caminho para a solução de problemas
+por demais difíceis para serem abarcados num só esforço”.
+(Marshall, 1982, vol. 2, p. 49)
+
+Para concluir, obscrve-se que, de acordo com Leijo-
+nhufvud (1974), as curvas de oferta e demanda de mercado
+devem ser interpretadas como um conjunto de pontos de equi-
+líbrio ao longo do tempo, passíveis de serem obscrvados no
+mercado, e não um conjunto de pontos expressando o compor-
+tamento dos produtores que só se materializarão se forem con-
+sistentes com os planos dos outros agentes cconômicos.
